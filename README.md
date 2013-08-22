@@ -1,4 +1,4 @@
 php-lib-sys
 ===========
 
-Library system
+This is library system made in PHP.
